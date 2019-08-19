@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\tanusha\source\repos\project3\project3\source.cpp(53): warning C4101: 'temp': unreferenced local variable
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00CA' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00EB' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00BA' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+c:\users\tanusha\source\repos\project3\project3\source.cpp(217): warning C4566: character represented by universal-character-name '\u00E9' cannot be represented in the current code page (1251)
+  Project3.vcxproj -> C:\Users\Tanusha\source\repos\Project3\Debug\Project3.exe

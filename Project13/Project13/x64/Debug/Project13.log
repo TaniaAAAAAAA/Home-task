@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\tanusha\source\repos\project13\project13\source.cpp(108): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\tanusha\source\repos\project13\project13\source.cpp(108): error C2059: syntax error: '.'
+c:\users\tanusha\source\repos\project13\project13\source.cpp(109): error C2065: 'chislo': undeclared identifier
+c:\users\tanusha\source\repos\project13\project13\source.cpp(110): error C2065: 'chislo': undeclared identifier
+c:\users\tanusha\source\repos\project13\project13\source.cpp(112): error C2065: 'chislo': undeclared identifier
+c:\users\tanusha\source\repos\project13\project13\source.cpp(114): error C2065: 'chislo': undeclared identifier
+c:\users\tanusha\source\repos\project13\project13\source.cpp(115): error C2065: 'chislo': undeclared identifier

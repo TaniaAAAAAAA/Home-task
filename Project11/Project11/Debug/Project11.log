@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\tanusha\source\repos\project11\project11\source.cpp(30): error C2541: 'delete': cannot delete objects that are not pointers
